@@ -2,7 +2,7 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js.ts.jsxtsx}"
+    "./src/**/*.{js.ts.jsx,tsx}"
   ],
   darkMode: "media",
   theme: 
